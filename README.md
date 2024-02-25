@@ -4,5 +4,5 @@ I was pondering on an idea of how due to volatility of cryptocurrencies, the cry
 M.L. techniques are helpful to find these before mentioned bundles, that are cost effective. Or one can buy crypto currencies as is.
 
 For example, ethereum network (ether *) can be bundled with found stocks as following groups: 
-> alkyl and alkyl groups / or as is ether
+> alkyl and alkyl groups / or as is ether ; 
 > aryl and aryl groups / or as is ether
